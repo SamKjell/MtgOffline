@@ -9,3 +9,5 @@ This project is just a hobby project, so it hasn't historically worked out of th
 
 # Demo
 
+https://github.com/SamKjell/MtgOffline/blob/main/demo_1.mov
+
