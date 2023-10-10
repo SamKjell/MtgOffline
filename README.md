@@ -1,2 +1,2 @@
 # MtgOffline
-One of my hobby projects. MtgOffline is an application which can pit a digital Magic: The Gathering ai against a tabletop player. 
+MtgOffline is one of my hobby projects. It's an application which can pit a digital Magic: The Gathering bot against a tabletop player. The name is a spoof on Mtg Online, an official magic tabletop simulator. However, I always wanted to play the game with my own physical paper cards on my table against an online opponent or a computer bot (this was during the pandemic so I couldn't get regular games in), so I created MtgOffline to do just that.
