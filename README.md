@@ -7,6 +7,6 @@ The src folder contains samples of most of the code. This code will likely not c
 # Demo
 I have uploaded a demo video showing the basic features of the program. 
 
-# Features of Note
+# Notable Features
 - Mod support for third party cards, decks, and functionality
 - Networking: can connect to a server using TCP (server code is not in the sample)
