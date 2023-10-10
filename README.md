@@ -5,4 +5,8 @@ MtgOffline is one of my hobby projects. It's an application which can pit a digi
 The src folder contains samples of most of the code. This code will likely not compile out of the box since it is missing the resources and dependencies that are setup in my development environment. If you are interested in taking a look at this program in action, see the next section! 
 
 # Demo
-I have uploaded a demo video showing the basic features of the program in action. 
+I have uploaded a demo video showing the basic features of the program. 
+
+# Features of Note
+- Mod support for third party cards, decks, and functionality
+- Networking: can connect to a server using TCP (server code is not in the sample)
